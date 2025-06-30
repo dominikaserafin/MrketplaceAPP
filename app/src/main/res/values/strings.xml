@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Marketplace</string>
+    <string name="welcome">Welcome to Marketplace</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="buyer">Buyer</string>
+    <string name="seller">Seller</string>
+    <string name="add_product">Add Product</string>
+    <string name="browse_products">Browse Products</string>
+    <string name="cart">Cart</string>
+    <string name="history">History</string>
+    <string name="logout">Logout</string>
+</resources>

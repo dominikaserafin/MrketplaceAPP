@@ -21,7 +21,7 @@ class NotificationHelper(private val context: Context) {
         const val NOTIFICATION_ID_BASE = 1000
         const val PREFS_NAME = "notification_prefs"
         const val KEY_LAST_NOTIFICATION_TIME = "last_notification_time_"
-        const val NOTIFICATION_INTERVAL = 24 * 60 * 60 * 1000L // 24 hours
+        const val NOTIFICATION_INTERVAL = 60
     }
 
     private val sharedPreferences = context.getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
